@@ -1,0 +1,6 @@
+#
+#
+# README FOR THE BARTENDER GROUP 9/8/20
+# BEGINING DEVOMENT NOW
+# FIRST COMMIT AFTER THIS LINE
+#--------------------------------------
